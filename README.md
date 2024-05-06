@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris (@plattfuss), a Java software developer from Munich. 
+- 👋 Hi, I’m Chris, a Java software developer from Munich. 
 - Coding experience with Java since 1998. 
 - Working as an IT freelancer since 2013.
 
